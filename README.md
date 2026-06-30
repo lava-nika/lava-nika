@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Author: "Lavanika S" https://gitlab.com/wireshark/wireshark/-/blob/master/AUTHORS 
+
+Merge Requests: https://gitlab.com/users/lavanika2011/activity
