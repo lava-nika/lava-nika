@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Author: "Lavanika S" https://gitlab.com/wireshark/wireshark/-/blob/master/AUTHORS 
+Author: "Lavanika S" [https://gitlab.com/wireshark/wireshark/-/blob/master/AUTHORS ](https://gitlab.com/wireshark/wireshark/-/blob/master/AUTHORS#L4847)
 
 Merge Requests: https://gitlab.com/users/lavanika2011/activity
